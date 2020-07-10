@@ -1,5 +1,6 @@
 <template>
   <div class="about">
-    <h1>This is an about page</h1>
+    <h1>About this Project</h1>
+    <p>This Todo Application is built by Vue.js and Vue Router</p>
   </div>
 </template>
